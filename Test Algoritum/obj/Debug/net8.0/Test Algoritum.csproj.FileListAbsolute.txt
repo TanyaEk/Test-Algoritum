@@ -1,0 +1,14 @@
+C:\Users\XSU_1\Downloads\denkata e smotan\Test Algoritum\bin\Debug\net8.0\Test Algoritum.exe
+C:\Users\XSU_1\Downloads\denkata e smotan\Test Algoritum\bin\Debug\net8.0\Test Algoritum.deps.json
+C:\Users\XSU_1\Downloads\denkata e smotan\Test Algoritum\bin\Debug\net8.0\Test Algoritum.runtimeconfig.json
+C:\Users\XSU_1\Downloads\denkata e smotan\Test Algoritum\bin\Debug\net8.0\Test Algoritum.dll
+C:\Users\XSU_1\Downloads\denkata e smotan\Test Algoritum\bin\Debug\net8.0\Test Algoritum.pdb
+C:\Users\XSU_1\Downloads\denkata e smotan\Test Algoritum\obj\Debug\net8.0\Test Algoritum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XSU_1\Downloads\denkata e smotan\Test Algoritum\obj\Debug\net8.0\Test Algoritum.AssemblyInfoInputs.cache
+C:\Users\XSU_1\Downloads\denkata e smotan\Test Algoritum\obj\Debug\net8.0\Test Algoritum.AssemblyInfo.cs
+C:\Users\XSU_1\Downloads\denkata e smotan\Test Algoritum\obj\Debug\net8.0\Test Algoritum.csproj.CoreCompileInputs.cache
+C:\Users\XSU_1\Downloads\denkata e smotan\Test Algoritum\obj\Debug\net8.0\Test Algoritum.dll
+C:\Users\XSU_1\Downloads\denkata e smotan\Test Algoritum\obj\Debug\net8.0\refint\Test Algoritum.dll
+C:\Users\XSU_1\Downloads\denkata e smotan\Test Algoritum\obj\Debug\net8.0\Test Algoritum.pdb
+C:\Users\XSU_1\Downloads\denkata e smotan\Test Algoritum\obj\Debug\net8.0\Test Algoritum.genruntimeconfig.cache
+C:\Users\XSU_1\Downloads\denkata e smotan\Test Algoritum\obj\Debug\net8.0\ref\Test Algoritum.dll
